@@ -7,14 +7,14 @@
 
  🛠️ Tecnologias e Ferramentas
 - Linguagens: JavaScript, Python, PHP, SQL
-- Front-end: HTML5, CSS3, React
-- Back-end: Node.js, Express
-- Banco de Dados: MySQL, SQLite
+- Front-end: HTML5, CSS3
+- Back-end: Node.js
+- Banco de Dados: MySQL
 - Versionamento: Git & GitHub
-- Outros: APIs REST, OAuth 2.0, JWT
+- Outros: APIs REST
 
 
  🌐 Onde me encontrar
-- 📧 Email: seuemail@email.com
+- 📧 Email: samuel.edu2508@gmail.com
 - 💼 LinkedIn: [samuel ferreira](https://www.linkedin.com/in/SEU_LINK/)
 
